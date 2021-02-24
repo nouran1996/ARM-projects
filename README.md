@@ -1,2 +1,0 @@
-# nti-projects
-nti projects
